@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm XorDu ðŸ‘‹
+# Hey there! I'm XorDu 👋
 
 ### Full Stack Developer | Open Source Enthusiast
 
@@ -10,17 +10,17 @@
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
-- ðŸ”­ Full Stack Developer passionate about building robust applications
-- ðŸŒ± Constantly learning and exploring new technologies
-- ðŸ’¡ I love creating tools that solve real-world problems
-- ðŸ§ Linux enthusiast & open source advocate
-- ðŸ¤ Open to collaborating on interesting projects
+- 🔭 Full Stack Developer passionate about building robust applications
+- 🌱 Constantly learning and exploring new technologies
+- 💡 I love creating tools that solve real-world problems
+- 🐧 Linux enthusiast & open source advocate
+- 🤝 Open to collaborating on interesting projects
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## ðŸ—ï¸ Featured Projects
+## 🏗️ Featured Projects
 
 <div align="center">
 
@@ -76,13 +76,13 @@
 
 ---
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-ðŸ’¬ I'm always open to collaborating on interesting projects and discussing new ideas.
+💬 I'm always open to collaborating on interesting projects and discussing new ideas.
 
-If you find my work useful, consider giving a â­ â€” it means a lot!
+If you find my work useful, consider giving a ⭐ — it means a lot!
 
 </div>
 
@@ -90,6 +90,6 @@ If you find my work useful, consider giving a â­ â€” it means a lot!
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/XorDu/XorDu/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/XorDu/XorDu/output/github-contribution-grid-snake-dark.svg)
 
 </div>
