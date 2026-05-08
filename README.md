@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XorDu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XorDu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XorDu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XorDu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XorDu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
@@ -67,10 +67,10 @@
 
 <div align="center">
 
-[![Stock-Control](https://github-readme-stats.vercel.app/api/pin/?username=XorDu&repo=Stock-Control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/Stock-Control)
-[![Easy-Stock-Control](https://github-readme-stats.vercel.app/api/pin/?username=XorDu&repo=Easy-Stock-Control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/Easy-Stock-Control)
-[![crud-management-system](https://github-readme-stats.vercel.app/api/pin/?username=XorDu&repo=crud-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/crud-management-system)
-[![personal-website](https://github-readme-stats.vercel.app/api/pin/?username=XorDu&repo=personal-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/personal-website)
+[![Stock-Control](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=XorDu&repo=Stock-Control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/Stock-Control)
+[![Easy-Stock-Control](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=XorDu&repo=Easy-Stock-Control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/Easy-Stock-Control)
+[![crud-management-system](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=XorDu&repo=crud-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/crud-management-system)
+[![personal-website](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=XorDu&repo=personal-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/XorDu/personal-website)
 
 </div>
 
