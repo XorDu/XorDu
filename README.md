@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Full Stack Developer passionate about building robust applications
+- 🔭 Developer passionate about building robust applications
 - 🌱 Constantly learning and exploring new technologies
 - 💡 I love creating tools that solve real-world problems
 - 🐧 Linux enthusiast & open source advocate
