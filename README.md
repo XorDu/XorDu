@@ -2,7 +2,7 @@
 
 # Hey there! I'm XorDu 👋
 
-### Full Stack Developer | Open Source Enthusiast
+### Developer | Open Source Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XorDu&color=blueviolet&style=for-the-badge)](https://github.com/XorDu)
 
